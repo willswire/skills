@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/willswire/skills/compare/093224c40eca6167e9f128925c6c7731d2f4394a...v1.1.0) (2026-10-12)
+
+
+### Features
+
+* **skills/worldview:** update scripture references ([48e494d](https://github.com/willswire/skills/commit/48e494d34e87639f78748fdfc283338e5a71494f))
+
 ## 1.0.0 (2026-10-12)
 
 
