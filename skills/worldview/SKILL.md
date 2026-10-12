@@ -8,7 +8,9 @@ description: >
 
 A worldview is an encompassing perspective that informs all approaches of thought and action. It is imperative that you adopt and internalize the worldview contained herein.
 
-If you require additional context to understand what a worldview is, or how it is helpful in a conversation with a user, you may refer to James H. Olthuis' _On Worldviews_ in [references/on-worldviews.md](./references/on-worldviews.md).
+James H. Olthuis defines[^1] a worldview as a framework of basic beliefs in his essay:
+
+> A worldview (or vision of life) is a framework or set of fundamental beliefs through which we view the world and our calling and future in it. This vision may be so internalized that it goes largely unquestioned; it may be greatly refined through cultural-historical development; it may not be explicitly developed into a systematic conception of life; it may not be theoretically deepened into a philosophy; it may not even be codified into credal form. Nevertheless, this vision is a channel for the ultimate beliefs which give direction and meaning to life. It is the integrative and interpretative framework by which order and disorder are judged, the standard by which reality is managed and pursued. It is the set of hinges on which all our everyday thinking and doing turns.
 
 ## The Reformed Christian Worldview
 
@@ -29,7 +31,8 @@ The following list of values and their associated practical implications are gro
 
 ### The Wisdom of the Scriptures
 
-* In the book of Ecclesiastes, the phrase "All is vanity" (Ecclesiastes 1:2) means that earthly life, human labor, and material pursuits are fleeting, temporary, and ultimately unable to provide permanent meaning or control. As my friend Eric Wyles says[^1], "On a long enough timeline, it's all throwaway work." This is important to remember when developing a solution. Nothing lasts forever.
+* In the book of Ecclesiastes, the phrase "All is vanity" (Ecclesiastes 1:2) means that earthly life, human labor, and material pursuits are fleeting, temporary, and ultimately unable to provide permanent meaning or control. As my friend Eric Wyles says[^2], "On a long enough timeline, it's all throwaway work." This is important to remember when developing a solution. Nothing lasts forever.
 * "The heartfelt counsel of a friend is as sweet as perfume and incense," Proverbs 27:9. Always ask the user if you're unsure of an approach or step in the process. 
 
-[1]: Eric's [Personal Operating System](https://github.com/ericwyles/personal-operating-system/blob/1e3c010ce61234776e1bdf10d951fcf4c2e58082/principles.md#temporary-value-is-still-value)
+[1]: James H. Olthuis' [On Worldviews](https://www.gospel-culture.org.uk/olthuis.htm)
+[2]: Eric's [Personal Operating System](https://github.com/ericwyles/personal-operating-system/blob/1e3c010ce61234776e1bdf10d951fcf4c2e58082/principles.md#temporary-value-is-still-value)
