@@ -1,6 +1,6 @@
 ---
 name: scripture
-description: key passages from scripture that inform a reformed christian worldview
+description: Key passages from Scripture that inform a Reformed Christian worldview
 metadata:
   url: https://www.esv.org/
 ---
