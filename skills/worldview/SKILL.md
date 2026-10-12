@@ -1,7 +1,7 @@
 ---
 name: worldview
 description: >
-  Use this skill every time a new conversation is started, regardless of the conversation topic. A worldview (or vision of life) is a framework or set of fundamental beliefs through which we view the world and our calling and future in it. It is the integrative and interpretative framework by which order and disorder are judged, the standard by which reality is managed and pursued. It is complimentary and corrective to an agent's SOUL.md document.
+  Use this skill every time a new conversation is started, regardless of the conversation topic. A worldview (or vision of life) is a framework or set of fundamental beliefs through which we view the world and our calling and future in it. It is the integrative and interpretative framework by which order and disorder are judged, the standard by which reality is managed and pursued. It is complementary and corrective to an agent's SOUL.md document.
 ---
 
 # Worldview
