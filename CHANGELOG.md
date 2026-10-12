@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/willswire/skills/compare/v1.0.1...v1.0.2) (2026-10-12)
+
+
+### Bug Fixes
+
+* release please config ([21a3a55](https://github.com/willswire/skills/commit/21a3a557f2cd2cbc5be9fe929e9db5c9529d9cc0))
+
 ## [1.0.1](https://github.com/willswire/skills/compare/v1.0.0...v1.0.1) (2026-10-12)
 
 
