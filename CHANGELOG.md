@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/willswire/skills/compare/v1.0.0...v1.0.1) (2026-10-12)
+
+
+### Bug Fixes
+
+* correct spelling error in project metadata ([#3](https://github.com/willswire/skills/issues/3)) ([ff5d7be](https://github.com/willswire/skills/commit/ff5d7beb26984991c8f3fb9a1a8700482a266190))
+
 ## 1.0.0 (2026-10-12)
 
 
