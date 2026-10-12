@@ -1,0 +1,14 @@
+{
+  "name": "skills",
+  "version": "dev",
+  "description": "Will Walkers's skills for agents.",
+  "author": {
+    "name": "Will Walker",
+    "url": "https://www.willswire.com"
+  },
+  "repository": "https://github.com/willswire/skills",
+  "license": "MIT",
+  "skills": [
+    "./skills/hello-world/"
+  ]
+}
