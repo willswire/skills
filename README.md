@@ -35,3 +35,4 @@ codex plugin add skills@willswire
 When building this repo, I drew inspiration from the following:
 
 * [Matt Pocock's Skills For Real Engineers](https://github.com/mattpocock/skills)
+* [My previous plugin: _Renaissance Man_](https://github.com/willswire/renaissance-man)
