@@ -9,6 +9,7 @@
   "repository": "https://github.com/willswire/skills",
   "license": "MIT",
   "skills": [
-    "./skills/hello-world/"
+    "./skills/hello-world/",
+    "./skills/worldview/"
   ]
 }
