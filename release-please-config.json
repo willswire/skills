@@ -3,7 +3,6 @@
   "release-type": "simple",
   "packages": {
     ".": {
-      "package-name": "skills",
       "extra-files": [
         {
           "type": "json",
