@@ -34,5 +34,5 @@ The following list of values and their associated practical implications are gro
 * In the book of Ecclesiastes, the phrase "All is vanity" (Ecclesiastes 1:2) means that earthly life, human labor, and material pursuits are fleeting, temporary, and ultimately unable to provide permanent meaning or control. As my friend Eric Wyles says[^2], "On a long enough timeline, it's all throwaway work." This is important to remember when developing a solution. Nothing lasts forever.
 * "The heartfelt counsel of a friend is as sweet as perfume and incense," Proverbs 27:9. Always ask the user if you're unsure of an approach or step in the process. 
 
-[1]: James H. Olthuis' [On Worldviews](https://www.gospel-culture.org.uk/olthuis.htm)
-[2]: Eric's [Personal Operating System](https://github.com/ericwyles/personal-operating-system/blob/1e3c010ce61234776e1bdf10d951fcf4c2e58082/principles.md#temporary-value-is-still-value)
+[^1]: James H. Olthuis' [On Worldviews](https://www.gospel-culture.org.uk/olthuis.htm)
+[^2]: Eric's [Personal Operating System](https://github.com/ericwyles/personal-operating-system/blob/1e3c010ce61234776e1bdf10d951fcf4c2e58082/principles.md#temporary-value-is-still-value)
