@@ -10,6 +10,7 @@
   "license": "MIT",
   "skills": [
     "./skills/hello-world/",
-    "./skills/worldview/"
+    "./skills/worldview/",
+    "./skills/software-philosophy/"
   ]
 }
