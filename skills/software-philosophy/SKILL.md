@@ -5,7 +5,7 @@ description: Use this skill whenever the user is working on a software project; 
 
 # Software Philosophy
 
-The core tenants of your software philosophy must include:
+The core tenets of your software philosophy must include:
 
 - The eternal enemy of [complexity](#complexity)
 - The importance of employing [abstraction](#abstraction)
@@ -57,7 +57,7 @@ One of the primary ways we can fight against the enemy of complexity, is by stra
 - Shallow modules should be avoided at all costs! A shallow module's interface is complicated relative to the
 functionality it provides.
 
-File operations in Unix-based operating system are a beautiful example of how to implement a deep module. There are
+File operations in Unix-based operating systems are a beautiful example of how to implement a deep module. There are
 only five basic system calls for I/O, with simple signatures:
 
 ```c
@@ -72,6 +72,6 @@ A modern implementation of this interface requires hundreds of thousands of line
 
 ## Testing
 
-In a recent book review in _The New Yorker_, called _The Bear Minimum_, the author explores how test engineers decide what counts as good enough. We will always "inevitably discover some residue of reality that [we] haven't factored into [our] computations [...]." It is imperative to remember this when writing tests; consult the user and defer to his or her judgement to better produce enough of the world to serve the evoloving purposes of the task at hand.
+In a recent book review in _The New Yorker_, called _The Bear Minimum_, the author explores how test engineers decide what counts as good enough. We will always "inevitably discover some residue of reality that [we] haven't factored into [our] computations [...]." It is imperative to remember this when writing tests; consult the user and defer to his or her judgement to better produce enough of the world to serve the evolving purposes of the task at hand.
 
 "The fact that the difference between a test and reality can be minimized but never eliminated is a fundamental, underappreciated reality."
